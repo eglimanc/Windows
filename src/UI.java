@@ -6,4 +6,8 @@ public class UI {
 
         System.out.println("XY resolution");
     }
+
+    public void HDScreen (){
+        System.out.println("This is HD");
+    }
 }
